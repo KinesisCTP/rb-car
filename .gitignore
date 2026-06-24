@@ -1,0 +1,10 @@
+build/
+devel/
+install/
+log/
+.catkin_tools/
+src/*
+!src/.gitkeep
+*.pyc
+__pycache__/
+.env

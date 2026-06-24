@@ -1,0 +1,17 @@
+repositories:
+  rbcar_common:
+    type: git
+    url: git@github.com:KinesisCTP/rbcar_common.git
+    version: noetic-devel
+  rbcar_sim:
+    type: git
+    url: git@github.com:KinesisCTP/rbcar_sim.git
+    version: noetic-devel
+  robotnik_msgs:
+    type: git
+    url: git@github.com:KinesisCTP/robotnik_msgs.git
+    version: ros-devel
+  robotnik_sensors:
+    type: git
+    url: git@github.com:KinesisCTP/robotnik_sensors.git
+    version: noetic-devel
