@@ -1,6 +1,6 @@
 # Kinesis RB-CAR ROS 1 Workspace
 
-This repository is the onboarding workspace for Kinesis CTP students working
+This repository is the onboarding workspace for Kinesis CTP users working
 with the Robotnik RB-CAR in ROS 1 Noetic.
 
 It provides:
@@ -139,7 +139,7 @@ ping "$ROS_IP"
 
 ## Contributor Setup
 
-Students with write access to the Kinesis organization should configure GitHub
+Users with write access to the Kinesis organization should configure GitHub
 SSH access, then import using the SSH manifest:
 
 ```bash
